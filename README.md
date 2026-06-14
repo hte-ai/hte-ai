@@ -19,4 +19,10 @@ Start here:
 - Request a fixed-scope audit: https://github.com/hte-ai/operator-audit-kits/issues/new?template=audit-order.yml
 - Public audit request issue: https://github.com/hte-ai/operator-audit-kits/issues/1
 
+Free public checklists:
+
+- README Revenue Leak Check: https://gist.github.com/hte-ai/1b8dc89a519f861582efd640f6ae899d
+- Landing Page Revenue Leak Check: https://gist.github.com/hte-ai/f3683d4085950b2390694d74fab8befa
+- Bounty PR Submission Safety Check: https://gist.github.com/hte-ai/05a2bf317804f7bc974192de16e2d30b
+
 Public-only: do not send secrets, private credentials, private customer data, production access, payment cards, tax details, cookies, or dashboards.
