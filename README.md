@@ -21,6 +21,7 @@ Free checklist repos:
 
 - README Revenue Leak Check: https://github.com/hte-ai/readme-revenue-leak-check
 - Landing Page Revenue Leak Check: https://github.com/hte-ai/landing-page-revenue-leak-check
+- Bounty PR Submission Safety Check: https://github.com/hte-ai/bounty-pr-submission-safety-check
 
 Free public checklists:
 
