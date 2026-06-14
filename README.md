@@ -12,6 +12,7 @@ Start here:
 
 - Storefront: https://hte-ai.github.io/operator-audit-kits/?utm_source=github_profile&utm_medium=profile&utm_campaign=operator_audit_kits_20260614&utm_content=profile_readme
 - README Mini-Audit Tool: https://hte-ai.github.io/operator-audit-kits/tools/readme-mini-audit.html?utm_source=github_profile&utm_medium=profile&utm_campaign=operator_audit_kits_20260614&utm_content=profile_readme
+- README Revenue Leak Check repo: https://github.com/hte-ai/readme-revenue-leak-check
 - README Mini-Audit Samples: https://hte-ai.github.io/operator-audit-kits/samples/?utm_source=github_profile&utm_medium=profile&utm_campaign=operator_audit_kits_20260614&utm_content=profile_readme
 - README Audit Badges: https://hte-ai.github.io/operator-audit-kits/badges/?utm_source=github_profile&utm_medium=profile&utm_campaign=operator_audit_kits_20260614&utm_content=profile_readme
 - Audit Request Builder: https://hte-ai.github.io/operator-audit-kits/tools/audit-request-builder.html?utm_source=github_profile&utm_medium=profile&utm_campaign=operator_audit_kits_20260614&utm_content=profile_readme
