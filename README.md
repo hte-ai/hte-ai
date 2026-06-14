@@ -20,7 +20,7 @@ Start here:
 Free checklist repos:
 
 - README Revenue Leak Check GitHub Action: https://github.com/hte-ai/readme-revenue-leak-check
-  - Use in CI: `uses: hte-ai/readme-revenue-leak-check@main`
+  - Use in CI: `uses: hte-ai/readme-revenue-leak-check@v1`
 - Landing Page Revenue Leak Check: https://github.com/hte-ai/landing-page-revenue-leak-check
 - Bounty PR Submission Safety Check: https://github.com/hte-ai/bounty-pr-submission-safety-check
 
